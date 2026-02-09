@@ -1,15 +1,15 @@
-import pervaya from '../public/gey/0.png'
+import pervaya from '../public//0.png'
 
 const KeyComponent = () => {
     const KeyElement = [
-        {label: 'Квартиры и офисы', price: 'от 100 000 ₽', image: pervaya},
-        {label: 'Магазины и ТЦ', price: 'от 100 000 ₽', image: pervaya},
-        {label: 'Фитнес центры', price: 'от 150 000 ₽', image: pervaya},
-        {label: 'Бассейны', price: 'от 150 000 ₽', image: pervaya},
-        {label: 'Загородные дома, коттеджи, таунхаусы', price: 'от 200 000 ₽', image: pervaya},
-        {label: 'Рестораны, кафе, бары', price: 'от 200 000 ₽', image: pervaya},
-        {label: 'Стоматологии, клиники', price: 'от 200 000 ₽', image: pervaya},
-        {label: 'Салоны красоты, СПА', price: 'от 100 000 ₽', image: pervaya}
+        {label: 'Квартиры и офисы', price: 'от 100 000 ₽', image: чето},
+        {label: 'Магазины и ТЦ', price: 'от 100 000 ₽', image: чето},
+        {label: 'Фитнес центры', price: 'от 150 000 ₽', image: чето},
+        {label: 'Бассейны', price: 'от 150 000 ₽', image: чето},
+        {label: 'Загородные дома, коттеджи, таунхаусы', price: 'от 200 000 ₽', image: чето},
+        {label: 'Рестораны, кафе, бары', price: 'от 200 000 ₽', image: чето},
+        {label: 'Стоматологии, клиники', price: 'от 200 000 ₽', image: чето},
+        {label: 'Салоны красоты, СПА', price: 'от 100 000 ₽', image: чето}
     ]
 
     return (
