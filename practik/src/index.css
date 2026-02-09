@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.painting{
+  background: url(/public/Group\ 20473.svg);
+  background-size: cover;
+  background-position: center;
+  
+}
